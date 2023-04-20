@@ -1,0 +1,56 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+    text-align: center;
+    background-color:#e8ded1;
+}
+.title {
+    display: none;
+    font-size: 50px;
+    font-weight: 800;
+    color:#b38acc;
+    text-shadow: 3px 2px #9883a5;
+}
+h1 {
+    font-size: 50px;
+    color: #acc3a2;
+    text-shadow: 2px 2px #a1b09b;
+}
+h2 {
+  font-size: 50px;
+  color: #acc3a2;
+  text-shadow: 2px 2px #a1b09b;
+}
+img {
+    width: 350px;
+    margin:2px;border:solid #eed2dc 8px; padding:0px;
+}
+.fishcat { border:dashed #e8ded1; 
+          height: 500px;
+          width: 500px;
+}
+
+.skull {border:dashed #e8ded1; 
+}
+  
+
+.buttons {
+   height: 40px;
+   display: flex;
+   justify-content: center;
+}
+
+.option-one-screen {
+  display:none
+}
+.option-two-screen {
+  display:none
+}
+.option-one-end {
+  display:none
+}
+.option-two-end {
+  display:none
+}
